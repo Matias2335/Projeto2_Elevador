@@ -13,9 +13,9 @@
 | **Atores** |Usuário Master|
 | **Pré-condição** | O Usuário Master deve estar autenticado no sistema.|
 | **Pós-condição** | O controlador é cadastrado e pode acessar as funções de gerenciamento de elevadores.|
-| **Fluxo principal** | 1 - O Usuário Master acessa o módulo de gerenciamento de usuários.<br>2 - O sistema solicita as informações de cadastro (nome, login, senha, e-mail, nível de autorização).<br>3 - O Usuário Master insere os dados solicitados.<br>4 - O sistema valida as informações e armazena o novo usuário gerente.<br>5- O sistema confirma a criação do cadastro.|
+| **Fluxo principal** | **1) Cadastro de usuário controlador:**<br>a - O Usuário Master acessa o módulo de gerenciamento de usuários.<br>b - O sistema solicita as informações de cadastro (nome, login, senha, e-mail, nível de autorização).<br>c - O Usuário Master insere os dados solicitados.<br>d - O sistema valida as informações e armazena o novo usuário gerente.<br>5- O sistema confirma a criação do cadastro.|
 | **Fluxo Alternativo** | Não há.|
-| **Fluxo de Exceção** | 1 - Falha ao salvar os dados no banco de dados.<br>2 - O sistema exibe mensagem de erro informando falha no cadastro.|
+| **Fluxo de Exceção** | **1) Falha ao salvar dados do usuário:**<br>a - O Usuário Master acessa o módulo de gerenciamento de usuários.<br>b - O sistema solicita as informações de cadastro (nome, login, senha, e-mail, nível de autorização).<br>c - O Usuário Master insere os dados solicitados.<br>d - O sistema retorna erro ao salvar os dados.|
 <br>
 <br>
 
