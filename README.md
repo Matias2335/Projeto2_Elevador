@@ -2,35 +2,25 @@
 
 # Diagrama de Casos de Uso
 
-<img width="789" height="524" alt="Casos_De_Uso drawio (2)" src="https://github.com/user-attachments/assets/c89b9a80-e502-4ed3-88fc-2a679f3c7d54" />
+
+<img width="789" height="524" alt="Casos_De_Uso drawio (3)" src="https://github.com/user-attachments/assets/e06d284c-b512-433c-9f69-5e187d877754" />
 
 
 
-| **Identificação** | **UC01 – Cadastrar Gerente**|
+| **Identificação** | **UC01 – Cadastrar Controlador**|
 |-------------------|-----------------------------|
-| **Função** |O processo de cadastro de um usuário gerente (controlador) no sistema de controle de elevadores.|
+| **Função** |O processo de cadastro de um usuário controlador no sistema de controle de elevadores.|
 | **Atores** |Usuário Master|
 | **Pré-condição** | O Usuário Master deve estar autenticado no sistema.|
-| **Pós-condição** | O gerente é cadastrado e pode acessar as funções de gerenciamento de elevadores.|
+| **Pós-condição** | O controlador é cadastrado e pode acessar as funções de gerenciamento de elevadores.|
 | **Fluxo principal** | 1 - O Usuário Master acessa o módulo de gerenciamento de usuários.<br>2 - O sistema solicita as informações de cadastro (nome, login, senha, e-mail, nível de autorização).<br>3 - O Usuário Master insere os dados solicitados.<br>4 - O sistema valida as informações e armazena o novo usuário gerente.<br>5- O sistema confirma a criação do cadastro.|
 | **Fluxo Alternativo** | Não há.|
 | **Fluxo de Exceção** | 1 - Falha ao salvar os dados no banco de dados.<br>2 - O sistema exibe mensagem de erro informando falha no cadastro.|
 <br>
 <br>
 
-| **Identificação** | **UC02 – Cadastrar Cliente VIP**|
-|-------------------|-----------------------------|
-| **Função** |Serve para cadastro de um cliente VIP, autorizando seu acesso aos andares restritos através de reconhecimento facial|
-| **Atores** |Usuário Master|
-| **Pré-condição** | O Usuário Master deve estar autenticado no sistema.|
-| **Pós-condição** | O cliente VIP é cadastrado com seus dados e imagem facial associados.|
-| **Fluxo principal** | 1 - O Usuário Master acessa o módulo de cadastro de clientes VIP.<br>2 - O sistema solicita as informações de cadastro (nome, documento, e-mail, imagem facial).<br>3 - O Usuário Master insere os dados e realiza a captura facial.<br>4 - O sistema valida e armazena os dados do cliente VIP.<br>5 - O sistema confirma o cadastro.|
-| **Fluxo Alternativo** | Caso a captura facial falhe, o sistema solicita nova tentativa.|
-| **Fluxo de Exceção** | 1 - Falha na comunicação com o banco de dados.<br>2 - O sistema exibe mensagem de erro informando falha no cadastro.|
-<br>
-<br>
 
-| **Identificação** | **UC03 – Gerenciar Elevadores**|
+| **Identificação** | **UC02 – Gerenciar Elevadores**|
 |-------------------|-----------------------------|
 | **Função** |Configuração e monitoramento dos elevadores pelo Usuário Controlador.|
 | **Atores** |Usuário Controlador|
@@ -42,7 +32,7 @@
 <br>
 <br>
 
-| **Identificação** | **UC04 – Usar Elevador**|
+| **Identificação** | **UC03 – Usar Elevador**|
 |-------------------|-----------------------------|
 | **Função** |Utilização do elevador pelos clientes e usuários autorizados.|
 | **Atores** |Clientes, Usuário Controlador|
@@ -54,7 +44,7 @@
 <br> 
 <br>
 
-| **Identificação** | **UC05 – Prevenção de Segurança**|
+| **Identificação** | **UC04 – Prevenção de Segurança**|
 |-------------------|-----------------------------|
 | **Função** |O comportamento do sistema durante situações de incêndio ou emergência.|
 | **Atores** |Sistema de Segurança, Usuário Controlador|
