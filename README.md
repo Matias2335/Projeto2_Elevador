@@ -56,4 +56,5 @@
 
 # Diagrama de Classe
 
-<img width="1211" height="641" alt="image" src="https://github.com/user-attachments/assets/f4d20d20-4a38-438f-a346-e32d7cdf84c6" />
+<img width="984" height="719" alt="image" src="https://github.com/user-attachments/assets/fa1e7f71-176d-4d81-b966-e51bed44ee98" />
+
