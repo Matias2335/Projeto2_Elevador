@@ -64,3 +64,6 @@
 | **Fluxo Alternativo** | Caso o sistema automático falhe, o Usuário Controlador aciona o modo de emergência manualmente.|
 | **Fluxo de Exceção** | 1 - Falha na comunicação com o sistema de segurança.<br>2 - O sistema exibe mensagem de alerta e aguarda comando manual.|
 
+# Diagrama de Classe
+
+<img width="1211" height="641" alt="image" src="https://github.com/user-attachments/assets/f4d20d20-4a38-438f-a346-e32d7cdf84c6" />
