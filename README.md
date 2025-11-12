@@ -2,8 +2,8 @@
 
 # Diagrama de Casos de Uso
 
+<img width="789" height="524" alt="Casos_De_Uso drawio (2)" src="https://github.com/user-attachments/assets/c89b9a80-e502-4ed3-88fc-2a679f3c7d54" />
 
-<img width="779" height="524" alt="Casos_De_Uso drawio (1)" src="https://github.com/user-attachments/assets/e2df2ed2-d3f5-4b93-b45e-451c56df7946" />
 
 
 | **Identificação** | **UC01 – Cadastrar Gerente**|
@@ -54,7 +54,7 @@
 <br> 
 <br>
 
-| **Identificação** | **UC05 – Operar Incêndio/Emergência**|
+| **Identificação** | **UC05 – Prevenção de Segurança**|
 |-------------------|-----------------------------|
 | **Função** |O comportamento do sistema durante situações de incêndio ou emergência.|
 | **Atores** |Sistema de Segurança, Usuário Controlador|
