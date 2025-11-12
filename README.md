@@ -58,3 +58,15 @@
 
 <img width="984" height="719" alt="image" src="https://github.com/user-attachments/assets/fa1e7f71-176d-4d81-b966-e51bed44ee98" />
 
+# Diagrama de Atividade 
+
+## Prevenção de segurança
+
+<img width="803" height="420" alt="image" src="https://github.com/user-attachments/assets/f80b6516-217c-4006-afcf-4099841eb24e" />
+
+## Controlador de Usuário
+
+<img width="1051" height="669" alt="image" src="https://github.com/user-attachments/assets/dc236a00-841d-4b97-bd8b-b2f05795ff48" />
+
+
+
