@@ -39,7 +39,7 @@
 | **Pré-condição** |O sistema deve estar operacional e o elevador disponível.|
 | **Pós-condição** | O usuário chega ao andar desejado.|
 | **Fluxo principal** | 1 - O usuário chama o elevador por meio da botoeira externa.<br>2 - O sistema identifica o elevador mais próximo e envia-o ao andar solicitado.<br>3 - O usuário entra e seleciona o andar de destino.<br>4 - O sistema move o elevador e exibe o andar atual e os próximos destinos.<br>5 - O elevador para no andar selecionado e abre as portas.|
-| **Fluxo Alternativo** | 1 - Caso o andar seja VIP, o sistema solicita autenticação facial antes de prosseguir.<br>2 - Se a autenticação falhar, o acesso ao andar é negado.|
+| **Fluxo Alternativo** | 1 - Caso o elevador já esteja em movimento atendendo outra chamada, o sistema adiciona o novo destino à fila de paradas.<br>2 - Se houver múltiplas chamadas no mesmo andar, o sistema prioriza a solicitação de acordo com a direção (subida ou descida).|
 | **Fluxo de Exceção** | 1 - O elevador está em manutenção.<br>2 - O sistema exibe mensagem informando indisponibilidade do serviço.|
 <br> 
 <br>
