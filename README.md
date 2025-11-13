@@ -105,5 +105,8 @@
 
 <img width="1070" height="204" alt="image" src="https://github.com/user-attachments/assets/f549d564-69ff-4920-ab9a-1a75c9fabd3c" />
 
+# Diagramas de Componentes e Implantação
+
+<img width="481" height="421" alt="Diagrama sem nome drawio" src="https://github.com/user-attachments/assets/64024cb6-3d95-4a8c-bf71-b19df731d50c" />
 
 
