@@ -58,6 +58,23 @@
 
 <img width="1097" height="1672" alt="Untitled diagram-2025-11-12-234001" src="https://github.com/user-attachments/assets/39717c29-d7e9-4bf0-85f8-4f959ec214bc" />
 
+# Diagrama de Sequência
+
+**UC01 – Cadastrar Controlador**
+
+<img width="613" height="460" alt="image" src="https://github.com/user-attachments/assets/bef9b2e7-48a3-4db7-b92a-e80bed7d1696" />
+
+**UC02 – Gerenciar Elevadores**
+
+<img width="600" height="396" alt="image" src="https://github.com/user-attachments/assets/221c8d2c-8cf7-4336-aeeb-66bd420d1f98" />
+
+**UC03 – Usar Elevador**
+
+<img width="561" height="514" alt="image" src="https://github.com/user-attachments/assets/eb660a17-4c11-4d14-97a4-1584f07be46b" />
+
+**UC04 – Prevenção de Segurança**
+
+<img width="524" height="345" alt="image" src="https://github.com/user-attachments/assets/07611172-98f3-4d64-b438-42f29bd00720" />
 
 
 # Diagrama de Atividade 
@@ -87,7 +104,6 @@
 ## Prevenção de Segurança UC04
 
 <img width="1070" height="204" alt="image" src="https://github.com/user-attachments/assets/f549d564-69ff-4920-ab9a-1a75c9fabd3c" />
-
 
 
 
