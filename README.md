@@ -70,5 +70,24 @@
 
 <img width="1051" height="669" alt="image" src="https://github.com/user-attachments/assets/dc236a00-841d-4b97-bd8b-b2f05795ff48" />
 
+# Diagrama de Estados
+
+## Cadastrar Controlador UC01
+
+<img width="1043" height="161" alt="image" src="https://github.com/user-attachments/assets/93639c0c-d5f6-4cc0-826c-fd2210078971" />
+
+## Gerenciar Elevadores UC02 
+
+<img width="1135" height="196" alt="image" src="https://github.com/user-attachments/assets/82e9dc44-eaf1-40d5-8e0e-e7274202053c" />
+
+## Usar Elevador UC03
+
+<img width="1077" height="180" alt="image" src="https://github.com/user-attachments/assets/cee33ff1-1770-4c5b-a911-49759a7fa9c2" />
+
+## Prevenção de Segurança UC04
+
+<img width="1070" height="204" alt="image" src="https://github.com/user-attachments/assets/f549d564-69ff-4920-ab9a-1a75c9fabd3c" />
+
+
 
 
